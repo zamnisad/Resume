@@ -13,11 +13,11 @@ My name is Artem, and I am 18 years old.
 ## 🛠️ Projects  
 You can explore my projects on my [GitHub profile](https://github.com/ZamniProg):  
 
-1. **Convolutional Neural Network (CNN)**  
+1. **Convolutional Neural Network (CNN) - (git -> neuro)**  
    - Implemented a convolutional neural network from scratch without using third-party libraries (only **NumPy** and **Pillow**).  
    - This is my favorite project as it demonstrates my ability to independently develop complex architectures.  
 
-2. **Basic Neural Network for MNIST**  
+2. **Basic Neural Network for MNIST - (git -> mnist)**  
    - Built a simple neural network for classifying handwritten digits from the **MNIST dataset**.  
    - This project helped solidify my understanding of the core principles of neural networks.  
 
@@ -25,11 +25,11 @@ You can explore my projects on my [GitHub profile](https://github.com/ZamniProg)
    - Created several **Telegram bots** using the **Telethon library**.  
    - Gained experience in **asynchronous programming** and **multithreading** in Python.  
 
-4. **Flower Classification Neural Network**  
+4. **Flower Classification Neural Network - (git -> neuro)**  
    - Designed a neural network for **flower classification** without using third-party machine learning libraries.  
 
 5. **Game Development in Unity**  
-   - Currently developing a **3D pixel art-style game** inspired by **1990s Japan** and **dark fantasy**.  
+   - Currently developing a **3D pixel art-style game** inspired by **1990s Japan** and **dark fantasy**. This game is currently under development.
    - Acquired basic skills in **3D modeling** and **UV mapping**.  
 
 ---
