@@ -7,7 +7,7 @@
 - Финалист олимпиады ML/DL от DLS
 
 ## Навыки
-**Python:** Pandas, NumPy, Pillow, PyTorch, aiogram, scikit-learn, transformers, asyncio, json  
+**Python:** Pandas, NumPy, Pillow, PyTorch, aiogram, scikit-learn, transformers, asyncio, json, pandas, torchvision
 **C++:** Алгоритмы, chrono
 
 ## Проекты
