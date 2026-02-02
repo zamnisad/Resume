@@ -1,33 +1,61 @@
-# Артём С. — ML/DL Engineer
+# Артём С. — ML / DL Engineer, Embedded & Robotics
 
 ## Обо мне
-- **Артём**, 19 лет (27.02.2006)
-- Студент 3 курса СПбГЭТУ «ЛЭТИ»
-- Прохожу курсы ML/DL и NLP от DeepLearningSchool
-- Финалист олимпиады ML/DL от DLS
+	•	Артём, 19 лет (27.02.2006)
+	•	Студент 3 курса СПбГЭТУ «ЛЭТИ»
+	•	Прохожу курсы ML/DL и NLP от DeepLearningSchool
+	•	Финалист олимпиады ML/DL от DLS
+	•	Интересуюсь связкой машинного обучения + embedded-систем + робототехники
 
-## Навыки
-**Python:** Pandas, NumPy, Pillow, PyTorch, aiogram, scikit-learn, transformers, asyncio, json, pandas, torchvision
-**C++:** Алгоритмы, chrono
+# Навыки
+
+## Python:
+Pandas, NumPy, Pillow, PyTorch, torchvision, scikit-learn, transformers, asyncio, aiogram, JSON
+
+## C++:
+Алгоритмы и структуры данных, STL, chrono
+
+## ML / DL:
+CNN, базовые NLP-модели, обучение и оценка моделей, кастомные реализации без фреймворков
+
+## Embedded / Robotics:
+	•	Arduino (C/C++)
+	•	Работа с датчиками (ИК, ультразвук, энкодеры — если используешь, можно уточнить позже)
+	•	Управление моторами, PWM
+	•	Проектирование логики автономного движения
+
+## CAD / Engineering:
+	•	КОМПАС-3D — 3D-моделирование деталей и корпусов
+	•	Подготовка моделей под печать и прототипирование
 
 ## Проекты
-- [Antivirus](https://github.com/zamnisad/antivirus) — базовый антивирус на C++
-- [Telegram Automation Bot](https://github.com/zamnisad/Telegram-Automatization-Bot) — бот для автоматизации постов
-- [Neuro](https://github.com/zamnisad/neuro) — CNN без сторонних библиотек на Python
-- [Sort Methods](https://github.com/zamnisad/Sort-Methods) — реализованные алгоритмы сортировки
-- [Trees](https://github.com/zamnisad/Trees) — деревья поиска
-- [Encoders](https://github.com/zamnisad/encoders) — алгоритмы сжатия
+	•	Antivirus￼ — базовый антивирус на C++
+	•	Telegram Automation Bot￼ — бот для автоматизации постов и управления каналами
+	•	Neuro￼ — CNN, реализованная с нуля без сторонних ML-библиотек
+	•	Sort Methods￼ — реализация и сравнение алгоритмов сортировки
+	•	Trees￼ — деревья поиска
+	•	Encoders￼ — алгоритмы сжатия данных
+
+## Аппаратные и инженерные проекты
+	•	Микромышь (Arduino) — разработка автономного робота для навигации в лабиринте
+	•	Логика движения и принятия решений
+	•	Управление моторами и сенсорами
+	•	Подготовка к последующей интеграции ML-алгоритмов
+	•	3D-проектирование (КОМПАС-3D)
+	•	Моделирование деталей и корпусов для прототипов
+	•	Инженерный подход к конструкции и сборке
 
 ## Образование
-- СПбГЭТУ «ЛЭТИ», 3 курс
-- Курсы DeepLearningSchool: ML/DL, NLP
+	•	СПбГЭТУ «ЛЭТИ», 3 курс
+	•	DeepLearningSchool — курсы ML/DL и NLP
 
 ## Текущие и планируемые проекты
-- Доработка Telegram-бота для управления каналами (генерация постов, изображений, модерация, раскрутка)
-- Развитие антивируса: эвристический и ML‑анализ, GUI
-- «Умный Word» с автогенерацией почерка по изображению
+	•	Развитие Telegram-бота: генерация контента, изображений, модерация, продвижение
+	•	Антивирус: эвристический анализ, ML-детекция, GUI
+	•	«Умный Word» — автогенерация почерка по изображению
+	•	Интеграция ML-алгоритмов в embedded-проекты (робототехника, автономные системы)
 
-## Контакты
-- GitHub: [zamnisad](https://github.com/zamnisad)
-- TG: [zamni](https://t.me/zamni)
-- Mail: artemopbgsg@gmail.com
+# Контакты
+	•	GitHub: https://github.com/zamnisad
+	•	Telegram: https://t.me/zamni
+	•	Email: artemopbgsg@gmail.com
